@@ -1,0 +1,31 @@
+{
+  "name": "oyara",
+  "version": "1.0.0",
+  "description": "api for financial transactions\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D endpoints for  financial transactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ogunlade olatokunbo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/olateekay.git"
+  },
+  "keywords": [
+    "api",
+    "endpoints"
+  ],
+  "bugs": {
+    "url": "https://github.com/github.com/olateekay/issues"
+  },
+  "homepage": "https://github.com/github.com/olateekay#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^2.2.19"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
